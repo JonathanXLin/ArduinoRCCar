@@ -1,6 +1,6 @@
 # Wrist Controlled RC Car
 
-This is a fun early project I made that let me consolidate my knowledge of C, Arduino electronics, and 3D modelling. I've included the Arduino code, prototype board schematics, and 3D models for the car and wrist controller.
+This was a fun early project I made that let me consolidate my knowledge of C, Arduino electronics, and 3D modelling. I've included the Arduino code, prototype board schematics, and 3D models for the car and wrist controller.
 
 <br>
 
