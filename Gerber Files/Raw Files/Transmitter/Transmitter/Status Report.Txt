@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RC Car Breakout Adapters.PrjPcb]
+   Generated File[Transmitter.GTL]
+   Generated File[Transmitter.GBL]
+   Generated File[Transmitter.GTO]
+   Generated File[Transmitter.GTP]
+   Generated File[Transmitter.GTS]
+   Generated File[Transmitter.GBS]
+   Generated File[Transmitter.GBP]
+   Generated File[Transmitter.GBO]
+   Generated File[Transmitter.GKO]
+   Generated File[Transmitter.Outline]
+   Generated File[Transmitter.RUL]
+   Generated File[Transmitter.EXTREP]
+   Generated File[Transmitter.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:37:02 AM On 2018-11-21
