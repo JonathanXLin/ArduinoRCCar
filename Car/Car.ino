@@ -4,7 +4,7 @@
 
 #include "Motor.h"
 
-#define frontLED1   A0
+#define frontLED1   A5
 #define frontLED2   A1
 
 RF24 radio(7, 8);
@@ -174,5 +174,3 @@ void front_light(int dur)//if dur is 1, turns on, if dur is 0, turns off
     digitalWrite(frontLED2, LOW);
   }
 }
-
-
