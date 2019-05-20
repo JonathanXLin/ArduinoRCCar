@@ -53,13 +53,13 @@ The car shell and wheels were designed using SolidWorks and 3D printed using PLA
 ### Car and Controller Schematic Preview
 
 <p align="center"> 
-  <img src="https://i.imgur.com/Dah2qRM.png" width="500">
+  <img src="https://i.imgur.com/Dah2qRM.png" width="600">
 </p>
 
 </br>
 
 <p align="center"> 
-  <img src="https://i.imgur.com/P8LcoUK.png" width="500">
+  <img src="https://i.imgur.com/P8LcoUK.png" width="600">
 </p>
 
 ### Prototypes
