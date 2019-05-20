@@ -5,7 +5,15 @@ This was a fun early project I made that let me consolidate my knowledge of C, A
 <br>
 
 <p align="center"> 
+  <img src="https://i.imgur.com/FT4axC1.jpg" width="400">
+</p>
+
+<p align="center"> 
   <img src="https://i.imgur.com/OK8XMAc.jpg" width="400">
+</p>
+
+<p align="center"> 
+  <img src="https://i.imgur.com/VeCXkbs.jpg" width="400">
 </p>
 
 ## Components
