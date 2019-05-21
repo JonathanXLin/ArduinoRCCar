@@ -23,7 +23,7 @@ The RC car uses two 12V geared DC motors, connected to a 2S Li-ion pack via a L2
 The wrist controller consists of a GY-521 three-axis gyroscope module and an NRF24L01 radio transceiver controlled by an Arduino Nano. The controller is powered by a 9V battery.
 
 <p align="center"> 
-  <img src="https://i.imgur.com/3fIx6e9.png" width="800">
+  <img src="https://i.imgur.com/3fIx6e9.png" width="600">
 </p>
 
 ## Features
