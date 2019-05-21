@@ -16,11 +16,15 @@ This was a fun early project I made that let me consolidate my knowledge of C, A
   <img src="https://i.imgur.com/VeCXkbs.jpg" width="400">
 </p>
 
-## Components
+## Overview
 
 The RC car uses two 12V geared DC motors, connected to a 2S Li-ion pack via a L293D dual H bridge. The H bridge is controlled by an Arduino Nano, which receives wireless commands from an NRF24L01 radio transceiver. 
 
 The wrist controller consists of a GY-521 three-axis gyroscope module and an NRF24L01 radio transceiver controlled by an Arduino Nano. The controller is powered by a 9V battery.
+
+<p align="center"> 
+  <img src="https://i.imgur.com/3fIx6e9.png" width="400">
+</p>
 
 ## Features
 
